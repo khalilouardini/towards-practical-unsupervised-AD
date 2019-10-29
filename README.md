@@ -1,4 +1,4 @@
-# towards-practical-unsupervised-AD
+# Towards practical unsupervised anomaly detection in retinal images
 
 #### The code will be available soon
 
